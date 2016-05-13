@@ -3,7 +3,7 @@ author:
     name: Lakshminarayanan Vijayaraghavan
     email: lv1018@rit.edu
     github: IGME-RIT    
-description: Create a stack using an array and find the minimum element in O(1) time
+description: Create a stack using an array
 language: C++
 image:
     icon:       
