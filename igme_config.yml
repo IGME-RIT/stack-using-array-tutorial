@@ -1,0 +1,17 @@
+title: Stack Using Array         
+author:
+    name: Lakshminarayanan Vijayaraghavan
+    email: lv1018@rit.edu
+    github: IGME-RIT    
+description: Create a stack using an array and find the minimum element in O(1) time
+language: C++
+image:
+    icon:       
+    banner:     
+tags:           
+    - C++
+    - Data Structures
+extra_resources:
+    - 
+connections:    
+    -     
