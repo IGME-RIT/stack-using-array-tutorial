@@ -1,3 +1,4 @@
+series:
 title: Stack Using Array         
 author:
     name: Lakshminarayanan Vijayaraghavan
@@ -5,13 +6,7 @@ author:
     github: IGME-RIT    
 description: Create a stack using an array
 language: C++
-image:
-    icon:       
-    banner:     
 tags:           
-    - C++
     - Data Structures
 extra_resources:
-    - 
 connections:    
-    -     
